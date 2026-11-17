@@ -60,9 +60,17 @@ Explore my repositories to see more of my work!
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [suyashdabare10](https://github.com/suyashdabare10)
-- **LinkedIn:** Add your LinkedIn profile
-- **Email:** Add your professional email
+<p align="left">
+  <a href="https://github.com/suyashdabare10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/suyashdabare10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suyashdabre8560@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
