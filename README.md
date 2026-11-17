@@ -52,12 +52,6 @@ I'm continuously working on projects that combine modern technologies with pract
 
 Explore my repositories to see more of my work!
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyashdabare10&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashdabare10&layout=compact&theme=tokyonight)
-
 ## 🤝 Let's Connect
 
 <p align="left">
